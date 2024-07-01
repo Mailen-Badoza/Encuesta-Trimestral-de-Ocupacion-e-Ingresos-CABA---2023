@@ -13,7 +13,8 @@ La correlación entre el nivel educativo y la situación laboral es notable; cer
 
 ![image](https://github.com/Mailen-Badoza/Encuesta-Trimestral-de-Ocupacion-e-Ingresos-CABA---2023/assets/145297121/4711c168-c031-43fd-a9f6-7895942d8a47)
 
-![image](https://github.com/Mailen-Badoza/Encuesta-Trimestral-de-Ocupacion-e-Ingresos-CABA---2023/assets/145297121/c38ceb75-c3f0-4ed2-be69-38b40a7db6e0)
+![image](https://github.com/Mailen-Badoza/Encuesta-Trimestral-de-Ocupacion-e-Ingresos-CABA---2023/assets/145297121/f1fbeb1a-0395-4fec-b21d-da01e81a041e)
+
 
 
 
